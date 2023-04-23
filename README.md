@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m4qhxrapawrohxg4?svg=true)](https://ci.appveyor.com/project/Ir-inka/patterns-2-3-2)
